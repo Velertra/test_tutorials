@@ -1,7 +1,0 @@
-{
-    "watch": ["./app.js"],
-    "ext": "js, json",
-    "execMap": {
-        "js": "node --harmony"
-    }
-}
